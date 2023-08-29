@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "Kell Xavier",
+        "email": "kell@email.com",
+        "cpf": "123.456.789-00",
+        "profissao": "Back End",
+        "endereco": null
+    },
+    {
+        "nome": "Kell Silva",
+        "email": "kell@email.com",
+        "cpf": "123.456.789-01",
+        "profissao": "Back End",
+        "endereco": null
+    },
+    {
+        "nome": "Kell Soares",
+        "email": "kell@email.com",
+        "cpf": "123.456.789-02",
+        "profissao": "Front End",
+        "endereco": null
+    },
+    {
+        "nome": "Kell",
+        "email": "kell@email.com",
+        "cpf": "123.456.789-03",
+        "profissao": "Full Stack",
+        "endereco": null
+    }
+]
